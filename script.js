@@ -7,7 +7,7 @@ const confirmados = [
     { nombre: "Michelle Alanya", estado: "pendiente", aporte: "S/ --" },
     { nombre: "Daniel Calderon", estado: "pendiente", aporte: "S/ --" },
     { nombre: "Daniel Villafranqui", estado: "pendiente", aporte: "S/ --" },
-    { nombre: "Carlos Ramirez", estado: "pendiente", aporte: "S/ --" },
+    { nombre: "Carlos Ramirez", estado: "confirmado", aporte: "S/ 30.00" },
     { nombre: "Josue Huayapa", estado: "pendiente", aporte: "S/ --" },
     { nombre: "Gianfranco Huillca", estado: "confirmado", aporte: "S/ 60.00" },
     { nombre: "Nathali Reyna", estado: "no-ira", aporte: "S/ 00.00" },
